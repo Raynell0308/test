@@ -1,1 +1,21 @@
+Jira
 
+Gradle
+장점 - 프로젝트 설정주입방식으로 정의, 빠른 빌드 속도, 멀티 프로젝트 빌드 지원
+
+
+CICD 지속적 통합 및 지속적 제공/배포를 의미 소프트웨어 개발 라이프 사이클을 간소화하고 가속화 하는것을 목표로 함
+
+Jenkins
+
+Github Action
+
+Junit
+
+Postman -API 테스트 툴
+
+Jmeter
+
+Docker, Kubernates
+
+앤서블
